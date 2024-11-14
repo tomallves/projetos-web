@@ -1,2 +1,5 @@
 # Site de uma Imobiliaria
-Atividade realizada utilizando as linguagens HTML e CSS
+
+Atividade desenvolvida afim de criar uma página para expor os serviços de uma determinada empresa, exibir sua localiação e meios de contato.
+>> Linguanes utilizadas: HTML - estrutura do código & CSS - estilização da página;
+>> Ferramentas adicionais: Promt - para interação com o usuário & Iframe - para exibir o google maps;
